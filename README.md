@@ -13,7 +13,8 @@
 - [x] add .env keys and .env after-sign-out shits
 - [x] add providers/clerk-provider.tsx and add to layout.tsx inside body
 - [x] add middleware.ts
-- [x] add app/(auth) and add select-org
+- [x] add app/(auth)
+- [ ] add select-org to the app/(auth)
 
 - [x] "npm i -D prisma"
 - [x] "npm i @prisma/client"
